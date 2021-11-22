@@ -1,6 +1,6 @@
 # The Marine Traffic External Adapter
 
-This external adapter is used to get off-chain marine traffic data.
+This external adapter is used to get off-chain marine traffic data using the Datalastic Maritime API.
 
 ## Forked from Chainlink NodeJS External Adapter Template
 
