@@ -1,6 +1,7 @@
 # The Marine Traffic External Adapter
 
 This external adapter is used to get off-chain marine traffic data using the Datalastic Maritime API.
+
 - The project use case is to get location of vessels for assets tracking of equipment shipments and ports information.
 - Another area of interest is a use case for Paramatic Insurance Trigger events of shipments and ports information.
 
@@ -17,6 +18,11 @@ This external adapter is used to get off-chain marine traffic data using the Dat
 - Gas Fees on Ethereum Mainnet
   - The external adapter is being deployed on the Kovan Testnet.
   - Ideally, the production version will be Polygon Mainnet. 
+
+## Remedies
+
+- Currently looking for a Maritime API Provider with an exclusive right allowing to distribute, furnish or resell the Data to third parties.
+- Deploy external adapter on Polygon Mainnet.
 
 ## Forked from Chainlink NodeJS External Adapter Template
 
