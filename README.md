@@ -1,6 +1,22 @@
 # The Marine Traffic External Adapter
 
 This external adapter is used to get off-chain marine traffic data using the Datalastic Maritime API.
+- The project use case is to get location of vessels for assets tracking of equipment shipments and ports information.
+- Another area of interest is a use case for Paramatic Insurance Trigger events of shipments and ports information.
+
+## Issues
+
+- Datalastic Maritime API User Agreement – Terms of Service
+
+4. Terms of Usage and License
+
+  4.1. Subject to your compliance with the Terms of this Agreement, Datalastic grants you a non-exclusive, non-transferable right to access and use the Services. Any sort of information and data acquired by being a Registered User of Datalastic is for internal use only. The User shall use such information and data for his/her use only and shall not share his/her API access information or purchased databases without the explicit consent of Datalastic.
+
+  4.2. Except as otherwise set forth herein, The User shall have no other rights with respect to the Data, including without limitation, any right otherwise to use, distribute, furnish or resell the Data to third parties or any portion or derivative thereof.
+
+- Gas Fees on Ethereum Mainnet
+  - The external adapter is being deployed on the Kovan Testnet.
+  - Ideally, the production version will be Polygon Mainnet. 
 
 ## Forked from Chainlink NodeJS External Adapter Template
 
