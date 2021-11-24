@@ -9,7 +9,7 @@ This external adapter is used to get off-chain marine traffic data using the Dat
 
 - Datalastic Maritime API User Agreement – Terms of Service
 
-- 4. Terms of Usage and License
+- Terms of Usage and License
 
 - 4.1. Subject to your compliance with the Terms of this Agreement, Datalastic grants you a non-exclusive, non-transferable right to access and use the Services. Any sort of information and data acquired by being a Registered User of Datalastic is for internal use only. The User shall use such information and data for his/her use only and shall not share his/her API access information or purchased databases without the explicit consent of Datalastic.
 
