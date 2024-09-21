@@ -13,7 +13,7 @@
     "dotenv": "^10.0.0"
   },
   "devDependencies": {
-    "body-parser": "^1.19.0",
+    "body-parser": "^1.20.3",
     "chai": "^4.3.8",
     "eslint": "^7.0.0",
     "eslint-config-standard": "^14.1.1",
