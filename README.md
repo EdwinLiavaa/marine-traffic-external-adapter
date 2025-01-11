@@ -182,6 +182,6 @@ If using a REST API Gateway, you will need to disable the Lambda proxy integrati
 - Click Browse and select the `external-adapter.zip` file
 - Select a Storage Bucket to keep the zip in
 - Function to execute: gcpservice
-- Click More, Add variable (repeat for all environment variables)
+- Click More, add variable (repeat for all environment variables)
   - NAME: API_KEY
   - VALUE: Your_API_key
