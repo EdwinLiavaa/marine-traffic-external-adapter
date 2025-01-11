@@ -1,9 +1,5 @@
 # The Marine Traffic External Adapter
 
-<p align="center">
- <img width="1000" src="https://github.com/EdwinLiavaa/marine-traffic-external-adapter/blob/main/pic.png">
-</p>
-
 This external adapter is used to get off-chain marine traffic data using the Datalastic Maritime API.
 
 - The project use case is to get location of vessels for assets tracking of equipment shipments and ports information.
